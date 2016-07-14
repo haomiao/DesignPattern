@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBaseColleague" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAABAAAABQAAAAAAAAAAABAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>base_colleague.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseMediator" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>base_mediator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMediator" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAgAAAAAAgIAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>mediator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteColleagueA" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAgAIAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_colleague_a.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteColleagueB" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAABAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_colleague_b.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteColleagueMonitor" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAABAAAAAAAAAAAAIAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_colleague_monitor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ExchangeInfo" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACAIAAQAAA=</HashCode>
+      <FileName>base_colleague.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

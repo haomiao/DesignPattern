@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBaseHandler" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAABAAAQAAAAQAAgABAAAEAAAAAAAAAA=</HashCode>
+      <FileName>base_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExtBaseHandler" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ext_base_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRequest" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEIAAAAAAAAAAAAEAAAAAAAAAAAgAAAAIAAAAAAAAA=</HashCode>
+      <FileName>request.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReaderHandler" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAEAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>reader_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWriterHandler" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAACAAAAAAAQAAAAAAAAAAAE=</HashCode>
+      <FileName>writer_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReaderWriterHandler" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAIAE=</HashCode>
+      <FileName>reader_writer_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExtendHandler" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>extend_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CombinStruct" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAQAAAAAAABAA=</HashCode>
+      <FileName>request.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="HandleRequestType" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAEAAAAAAEAAAAAAAAAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>request.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

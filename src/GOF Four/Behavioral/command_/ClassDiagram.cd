@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Command" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCommand&lt;TReciver&gt;" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAIAAAAAAAIgAAAAQAAAAAA=</HashCode>
+      <FileName>command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReciver" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>reciver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReadReciver" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>read_reciver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReadCommand" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgIAAQAAAAAA=</HashCode>
+      <FileName>read_command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReciver2" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>reciver2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWriteCommand" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAQAAAIAAQAAAAAA=</HashCode>
+      <FileName>write_command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

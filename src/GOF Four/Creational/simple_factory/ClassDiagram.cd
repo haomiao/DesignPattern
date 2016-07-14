@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAbstractProduct" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>abstract_product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductA" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_a.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductB" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_b.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CProductFactory" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAAAAAAAAACABAAAAAAAAAAAgAAEAAAA=</HashCode>
+      <FileName>product_factory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProductConcrete" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>product_factory.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

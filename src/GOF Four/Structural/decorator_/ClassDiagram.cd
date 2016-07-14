@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CComponent" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteComponent" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDecorator" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>decorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteDecorator2" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAAAAAAAAAAAAIAAAAAQIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_decorator2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteDecorator1" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECABAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_decorator1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

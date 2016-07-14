@@ -1,0 +1,9 @@
+@echo off
+cls
+Title 正在编译design_pattern.......
+@echo 即将编译工程项目design_pattern.sln,请稍等.....
+if exist %cd%\build.log del %cd%\build.log
+@call "%VS120COMNTOOLS%\vsvars32.bat"
+@devenv design_pattern.sln /Build "Debug|Win32" /out %cd%\build.log
+@echo 编译项目完成! 请按住任意键退出....
+@pause>nul & exit

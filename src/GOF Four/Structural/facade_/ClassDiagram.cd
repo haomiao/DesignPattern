@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBaseFacade" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAAAQAABAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>base_facade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteFacadeA" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAFAAAAAAACAEAQAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>concrete_facade_a.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteFacadeB" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAAAAAABAAAAAAAAwEAQAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>concrete_facade_b.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSleep" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>sub_systems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEat" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>sub_systems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCode" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sub_systems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWalk" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sub_systems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWork" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>sub_systems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

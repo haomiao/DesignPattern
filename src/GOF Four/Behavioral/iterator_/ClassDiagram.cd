@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Iterator&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAIAAAQAEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aggregate&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAACAAAAAAAAAAAAAAIAAAAAAAgAAAA=</HashCode>
+      <FileName>aggregate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteAggregate1&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgQAAAAEAAAAAAASAAIAAAAAAAAIAAAAAAAAAAhgAgA=</HashCode>
+      <FileName>concrete_aggregate_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteIterator&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAACAAAAAAAQQEQAAAAQAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>concrete_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteReversalIterator&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAASAAAAAAAQAEQAAAAQAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>concrete_reversal_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

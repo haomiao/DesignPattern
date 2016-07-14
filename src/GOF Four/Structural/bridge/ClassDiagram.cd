@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBaseComm" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAgCAACAAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>base_comm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTcpComm" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgCQAAAAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>tcp_comm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUsbComm" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAABAAgCAAAAAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>usb_comm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseInterCommandComm" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAgCAAQEAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>base_intercommand_comm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInterCommandCommPrefix" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAQAAAgCAAIAAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>inter_command_comm_prefix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInterCommandCommFixedSize" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAoCAAAAAIAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>inter_command_comm_fixedsize.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseDevice" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAQAAAAgCAAAAAAAAAABAAAAYAAAAAAAAA=</HashCode>
+      <FileName>base_device.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPADevice" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAgCAAAAAAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>pa_device.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPMDevice" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAgCAAAAAAAAAAAAAQAYAAAAAAAAA=</HashCode>
+      <FileName>pm_device.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

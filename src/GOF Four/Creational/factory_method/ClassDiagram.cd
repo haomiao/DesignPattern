@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CProduct" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCreator" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAA=</HashCode>
+      <FileName>creator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductA1" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_a1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductA2" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_a2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductB1" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_b1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteProductB2" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>concrete_product_b2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteCreatorA" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>concrete_creator_a.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConcreteCreatorTmpl&lt;TProduct&gt;" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>concrete_creator_tmpl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProductType" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>creator.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
