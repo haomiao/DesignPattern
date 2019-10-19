@@ -32,24 +32,22 @@ public:
 
 public:
 
-    //  模板方法(也即指明了：按照指定流程、顺序执行算法或实现)
+    //  模板方法(也即指明了：按照指定流程、顺序执行算法或实现)，一般不为虚函数
     void DoSomething();
 
 public:
 
-    //  钩子操作
+    //  原语操作(纯虚函数)
     virtual void DoSomethingOperator1() = 0;
     virtual void DoSomethingOperator2() = 0;
+    
+    //  钩子操作(虚函数)
     virtual void DoSomethingOperator3();
-
-protected:
-
-    //  原语操作
-    void DoSomethingOriginal();
 
 private:
 
-    //  具体的抽象类操作
+    //  公共部分操作实现操作
+    void DoSomethingOriginal();
     void DoSomethingSelf();
 
 protected:
